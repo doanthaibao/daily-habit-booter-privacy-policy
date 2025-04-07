@@ -5,7 +5,6 @@ Last updated: April 07, 2025
 This Privacy Policy explains how [Daily Habit Booster] ("the App") collects, uses, and protects your information when you use our mobile application. We are committed to safeguarding your privacy and ensuring transparency.
 
 ## Information We Collect
-[Customize this section based on your app]
 - **Personal Information**: We do not collect any personally identifiable information (e.g., name, email, or phone number) unless explicitly provided by you.
 - **Non-Personal Information**: The App may collect anonymous usage data (e.g., app crashes, usage statistics) to improve performance and user experience.
 - **Permissions**: The App may request access to [list permissions, e.g., camera, storage, location] only when necessary for its functionality. You can deny these permissions at any time.
@@ -15,11 +14,6 @@ We use the collected information to:
 - Provide and maintain the App’s functionality.
 - Improve the App’s performance and user experience.
 - [Add any other purposes, e.g., "Display personalized ads via third-party ad networks."]
-
-## Third-Party Services
-[Include this if applicable]
-The App may integrate third-party services (e.g., Google Analytics, AdMob) that collect data according to their own privacy policies. Links to their policies:
-- [Third-Party Name]: [Link to their policy]
 
 ## Data Storage and Security
 - We store any collected data securely using industry-standard practices.
